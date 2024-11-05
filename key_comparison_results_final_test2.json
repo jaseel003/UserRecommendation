@@ -1,0 +1,57 @@
+{
+    "recruitment": {
+        "candidates": [
+            "education",
+            "Softskills",
+            "Techskills"
+        ],
+        "interviewers": [
+            "Softskills",
+            "Techskills"
+        ]
+    },
+    "E-Governance": {
+        "Village Governance": [
+            "skills",
+            "knowledge_of_local_laws",
+            "education",
+            "experience"
+        ],
+        "Taluk Governance": [
+            "skills",
+            "knowledge_of_local_laws",
+            "education",
+            "experience"
+        ],
+        "Police Department": [
+            "skills",
+            "knowledge_of_local_laws",
+            "education",
+            "experience"
+        ]
+    },
+    "shopping": {
+        "buyers": [
+            "Product Name",
+            "Location",
+            "Product"
+        ],
+        "sellers": [
+            "products",
+            "city",
+            "rate",
+            "category"
+        ]
+    },
+    "essential_services": {
+        "service_providers": [
+            "service",
+            "availability",
+            "locality"
+        ],
+        "service_requesters": [
+            "request",
+            "locality"
+        ]
+    }
+}

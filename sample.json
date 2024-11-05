@@ -1,0 +1,77 @@
+{
+    "recruitment": {
+        "candidates": [
+          {
+            "id": 1,
+            "name": "Liam Rodriguez",
+            "email": "liam.r@example.org",
+            "phone": "8765123456",
+            "education": "BSc",
+            "Techskills": ["Java", "React", "MongoDB", "AWS"],
+            "Softskills": ["Communication", "Problem-solving"]
+          }
+        ]
+      ,
+      
+        "interviewers": [ 
+          {
+            "id": 11,
+            "name": "Cody Brady",
+            "email": "fmorrison@example.org",
+            "phone": "9848164559",
+            "Techskills": ["Django", "Spark", "Deep_learning", "Matlab", "Flask"],
+            "Softskills": ["Leadership", "Adaptability", "Communication", "Teamwork"]
+          }
+          ]
+      },
+      
+        "essential_services": {
+          "service_providers": [
+            {
+              "id": 21,
+              "name": "Harper Jensen",
+              "service": "Plumbing",
+              "contact": "123-456-7890",
+              "email": "info@abcplumbing.com",
+              "website": "www.abcplumbing.com",
+              "address": "123 Main Street, City, State, 12345"
+            }
+          ],
+          "service_requesters": [
+            {
+              "id": 31,
+              "name": "John Doe",
+              "request": "Plumbing Repair",
+              "contact": "555-111-2222",
+              "email": "john.doe@email.com"
+            }
+          ]
+        },
+        
+  "shopping": {
+    "buyers": [
+      {
+        "id": 41,
+        "Name": "keerthi",
+        "Location": "Palarivattom",
+        "Email": "keerthi123@gmail.com",
+        "Phone": "+91 9976453600",
+        "Product": "furniture",
+        "Product Name": "table",
+        "Price": 4999
+      }
+    ],
+    "sellers": [
+      {
+        "id": 51,
+        "name": "roy Electronics",
+        "email": "royelectronics@gmail.com",
+        "phone": "+91 8943456224",
+        "city": "palarivttom",
+        "products": "vivo 5G",
+        "category": "mobile",
+        "rate": 25000
+      }
+    ]
+  }  
+}
